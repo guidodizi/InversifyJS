@@ -94,7 +94,7 @@ class Warrior {
 class SamuraiMaster extends Warrior {
     public constructor() { // args count = 0
        super();
-	   this.rank = "master";
+       this.rank = "master";
     }
 }
 ```
